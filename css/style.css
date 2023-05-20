@@ -1,0 +1,110 @@
+body
+{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.fi
+{
+    background-image: url(landing.jpg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.fii
+{
+    width: 20%;
+}
+.fii h1 
+{
+    color: green;
+}
+.acolor
+{
+    color: rgb(61, 159, 61);
+    margin: 20px;
+}
+
+.services
+{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 750px;
+}
+
+.special-heading {
+    color: #ebeced;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 800;
+    letter-spacing: -3px;
+    margin: 0;
+}
+
+.h
+{
+    font-size: medium;
+    font-weight: bolder;
+    
+}
+.ayhaga
+{
+    display: flex;
+    flex-direction: column;
+}
+.gamb
+{
+    display: flex;
+}
+.aaa
+{
+    color: 10cab7;
+}
+h3
+{
+    margin-top: 20px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.bac
+{
+    background-color: #f6f6f6;
+}
+.label
+{
+    font-size: 35px;
+    font-weight: 800;
+    color: var(--secondary-color);
+    letter-spacing: -2px;
+    margin-bottom: 15px;
+}
+.lin
+{
+    display: block;
+    font-size: 35px;
+    font-weight: 800;
+    color: var(--main-color);
+    text-decoration: none;
+}
+.bax
+{
+    background-color: #2c4755;
+    height: 100px;
+    padding-top: 30px;
+    font-weight: 300;
+    font-size: xx-large;
+    color: #f6f6f6;
+}
